@@ -23,7 +23,7 @@ If at any time you have concerns or are uncertain whether your security research
 Privacy, data confidentiality, and integrity are crucial at P&G. By participating, you agree you will not disclose vulnerability information reported to P&G to any other third party. Public disclosure may be allowed upon request, and only after granted written permission to do so from P&G, through this program.
 
 # Vulnerability Disclosure Process
-To report a security issue, please use the GitHub Security Advisory ["Report a Vulnerability"](https://github.com/procter-gamble-vdp/initial-exp/security/advisories/new) tab. For detailed instructions on how to use the Security Advisories form, see our [VDP-SA-ReadMe.md](https://github.com/procter-gamble-vdp/initial-exp/blob/main/VDP-SA-ReadMe.md).
+To report a security issue, please use the GitHub Security Advisory ["Report a Vulnerability"](https://github.com/procter-gamble-vdp/submissions/security/advisories/new) tab. For detailed instructions on how to use the Security Advisories form, see our [README.md](https://github.com/procter-gamble-vdp/submissions/blob/main/README.md).
 
 # Program Rules
 - **Detailed Reports**: Please provide detailed reports with reproducible steps. 

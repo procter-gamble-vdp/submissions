@@ -1,4 +1,4 @@
-![Logo](PG-IS-VDP-header.PNG)
+![Logo](./images/PG-IS-VDP-header.PNG)
 
 >_NOTE: This program **does not** provide monetary rewards for bug submissions, and it is used for responsible disclosure purposes only._
 

@@ -1,4 +1,4 @@
-![Logo](./images/PG-IS-VDP-header.PNG)
+![Procter & Gamble Vulnerability Disclosure Program Header](./images/PG-IS-VDP-header.PNG)
 
 >_NOTE: This program **does not** provide monetary rewards for bug submissions, and it is used for responsible disclosure purposes only._
 
